@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to Rebecca-Coding's slide!"
 ---
-Your textw
+This is my awesome slide
 Use the left arrow to go back!
